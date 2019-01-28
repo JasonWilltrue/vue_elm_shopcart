@@ -1,8 +1,8 @@
 # vue_elm2.0
-
+![](http://book.52react.cn/购物车抛物线.gif)
 ## Project setup
 ```
-yarn install
+yarn installß
 ```
 
 ### Compiles and hot-reloads for development
