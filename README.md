@@ -1,5 +1,5 @@
 # vue_elm2.0
-![](http://book.52react.cn/购物车抛物线.gif)
+![image](http://book.52react.cn/购物车抛物线.gif)
 ## Project setup
 ```
 yarn installß
